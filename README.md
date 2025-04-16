@@ -2,6 +2,8 @@
 
 ###
 
+<a href="https://discord.com/users/1108408817626124439"><img src="https://lanyard.cnrad.dev/api/1108408817626124439"><p/>
+
 <p align="left">My name is Pascal and I'm a Developer, from Austria</p>
 
 ###
